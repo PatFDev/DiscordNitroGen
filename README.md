@@ -15,7 +15,7 @@ Follow these steps to get the script running on your system:
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/PatFDev/DiscordNitroGen]
+    git clone https://github.com/PatFDev/DiscordNitroGen
     cd DiscordNitroGen
     ```
 
