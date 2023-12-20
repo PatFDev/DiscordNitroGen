@@ -30,4 +30,4 @@ Follow these steps to get the script running on your system:
 To run the script, use the following command in the terminal:
 
 ```bash
-go run main.go
+go run .
